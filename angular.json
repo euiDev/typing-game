@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "typing-game"
+    }
+  },
+  "defaultProject": "typing-game",
+  "cli": {
+    "analytics": false
+  }
 }

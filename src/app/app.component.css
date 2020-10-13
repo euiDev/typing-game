@@ -1,0 +1,13 @@
+span.pending {
+  color: gray;
+}
+
+span.correct {
+  color: green;
+  font-weight: bold;
+}
+
+span.incorrect {
+  color: red;
+  font-weight: bold;
+}
